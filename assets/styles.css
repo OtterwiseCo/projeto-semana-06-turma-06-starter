@@ -79,10 +79,40 @@ button {
   padding: 110px 0px;
 }
 
+.cisney-cell{
+  padding: 110px 0px;
+}
+
+.lotus-woman {
+  padding: 110px 0px;
+}
+
+.woman-box {
+  padding: 110px 0px;
+}
+
 .woman-cellphone .container {
   display: flex;
   align-items: center;
   gap: 30px;
+}
+
+.lotus-woman .container {
+  display: flex;
+  align-items: center;
+  gap: 155px;
+}
+
+.cisney-cell .container {
+  display: flex;
+  align-items: center;
+  gap: 155px;
+}
+
+.woman-box .container {
+  display: flex;
+  align-items: center;
+  gap: 155px;
 }
 
 .woman-cellphone .woman-cellphone-title {
@@ -92,7 +122,52 @@ button {
   color: #091133;
 }
 
+.cisney-cell .cisney-cell-title {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: 500;
+  color: #091133;
+}
+
+.lotus-woman .lotus-woman-title {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: 500;
+  color: #091133;
+}
+
+.woman-box .woman-box-title {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: 500;
+  color: #091133;
+}
+
 .woman-cellphone .woman-cellphone-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6f7cb2;
+  margin-bottom: 80px;
+}
+
+.lotus-woman .lotus-woman-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6f7cb2;
+  margin-bottom: 80px;
+}
+
+.cisney-cell .cisney-cell-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6f7cb2;
+  margin-bottom: 80px;
+}
+
+.woman-box .woman-box-description {
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
